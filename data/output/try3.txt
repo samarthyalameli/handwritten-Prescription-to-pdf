@@ -1,0 +1,98 @@
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+Patient Name: Suraj Chikkond
+Address : Highschool Road
+S.No.: 74565
+Gender: Male Age: 23
+Date : 23/5/2020
+Rx
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+Patient Name: Vimal P
+Address: Kehsav magar
+S.No. : 536203
+Gender: Male Age: 24
+Date : 5/1/2001
+Rx
+Scanned with CamScanner
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+S.No.: 256252
+Patient Name : Sanket Kulkarni Gender: Male Age : 52
+Address : near Post office Date: 25/2/2020
+Rx
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+Patient Name: kartik k
+Address : Vimochan Hotel
+S.No. : 825124
+Gender: Male
+Age : 25
+Date : 23/1/2020
+Rx
+Scanned with CamScanner
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+Patient Name: Suraj Chikkond
+Address : Highschool Road
+S.No.: 74565
+Gender: Male Age: 23
+Date : 23/5/2020
+Rx
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+Patient Name: Vimal P
+Address: Kehsav magar
+S.No. : 536203
+Gender: Male Age: 24
+Date : 5/1/2001
+Rx
+Scanned with CamScanner
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+S.No.: 256252
+Patient Name : Sanket Kulkarni Gender: Male Age : 52
+Address : near Post office Date: 25/2/2020
+Rx
+NAME OF THE HOSPITAL
+Dr. John Wick M.B.B.S, M.S. (Ortho)
+751 Victoria 123 Street, South Statue 204
+Hometown, US 1234
+PH: (207) UU 2014 2014
+FAX: 02071 808 2015 2202
+Patient Name: kartik k
+Address : Vimochan Hotel
+S.No. : 825124
+Gender: Male
+Age : 25
+Date : 23/1/2020
+Rx
+Scanned with CamScanner
