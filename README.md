@@ -1,2 +1,2 @@
-# handwritten-Prescription to pdf
- handwritten-Prescription to pdf
+# Documentation of Handwritten Prescriptions
+ Documentation of Handwritten Prescriptions
