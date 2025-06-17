@@ -1,2 +1,2 @@
-# Documentation of Handwritten Prescriptions
- Documentation of Handwritten Prescriptions
+# AI-Based Prescription Digitization System
+ AI-Based Prescription Digitization System
